@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aatakansalar
-- 👀 I’m interested in MLOps, DevOps, Computer Vision and Deep Learning,
-- 🌱 I’m currently learning about Computer Vision,
+- 👀 I’m interested in MLOps, DevOps, NLP and Deep Learning,
 - 📫 How to reach me: a.atakansalar@gmail.com
 
 <!---
