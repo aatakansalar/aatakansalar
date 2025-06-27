@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aatakansalar  
-- 👀 I’m interested in MLOps, DevOps, NLP and Deep Learning  
-- 📫 How to reach me: [a.atakansalar@gmail.com](mailto:a.atakansalar@gmail.com),
+- Hi, I’m @aatakansalar  
+- I’m interested in DevOps, MLOps, NLP and Deep Learning  
+- How to reach me: [a.atakansalar@gmail.com](mailto:a.atakansalar@gmail.com),
 - About Me: [atakansalar.com](https://atakansalar.com)
 
 <!---
