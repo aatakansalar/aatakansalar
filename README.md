@@ -1,7 +1,6 @@
 - Hi, I’m @aatakansalar  
-- I’m interested in DevOps, MLOps, NLP and Deep Learning  
+- Currently working at TIRPORT as a DevOps & Cloud Engineer. Interested in software development, DevOps practices, NLP, LLM's and Artificial Intelligence. More Info: [atakansalar.com](https://atakansalar.com)
 - How to reach me: [a.atakansalar@gmail.com](mailto:a.atakansalar@gmail.com),
-- About Me: [atakansalar.com](https://atakansalar.com)
 
 <!---
 aatakansalar/aatakansalar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
