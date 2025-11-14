@@ -1,5 +1,5 @@
 - Hi, I’m @aatakansalar  
-- Currently working at TIRPORT as a DevOps & Cloud Engineer. Interested in software development, DevOps practices, NLP, LLM's and Artificial Intelligence. More Info: [atakansalar.com](https://atakansalar.com)
+- Currently working at Beko as a Senior AIOps Engineer. Focused on cloud infrastructure, software development, DevOps practices, NLP, LLMs, and Artificial Intelligence. More Info: [atakansalar.com](https://atakansalar.com)
 - How to reach me: [a.atakansalar@gmail.com](mailto:a.atakansalar@gmail.com),
 
 <!---
